@@ -4,7 +4,7 @@
 #
 Name     : smartcols
 Version  : 0.3.0
-Release  : 11
+Release  : 12
 URL      : https://github.com/ignatenkobrain/python-smartcols/archive/v0.3.0.tar.gz
 Source0  : https://github.com/ignatenkobrain/python-smartcols/archive/v0.3.0.tar.gz
 Summary  : No detailed summary available
